@@ -30,6 +30,11 @@ passalt.check(hash, 'bar')
 // => false
 ```
 
+## Related
+
+- [passalt-cli](https://github.com/anqurvanillapy/scripts/blob/master/passalt):
+Little snippet for CLI use
+
 ## License
 
 ISC
