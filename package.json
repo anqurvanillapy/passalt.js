@@ -1,0 +1,26 @@
+{
+  "name": "passalt",
+  "version": "0.1.0",
+  "description": "Like werkzeug.security's generate_password_hash and check_password_hash, but in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqurvanillapy/passalt.js.git"
+  },
+  "keywords": [
+    "password",
+    "utility"
+  ],
+  "author": "AnqurVanillapy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anqurvanillapy/passalt.js/issues"
+  },
+  "homepage": "https://github.com/anqurvanillapy/passalt.js#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
